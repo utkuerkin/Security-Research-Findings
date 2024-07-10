@@ -1,4 +1,4 @@
-Currently working for [Hashlock](https://www.hashlock.com.au) as a Security Researcher
+Currently working at [Hashlock](https://www.hashlock.com.au) as a Security Researcher
 
 ## Audit findings can be found in this repo
 ### Profiles:
