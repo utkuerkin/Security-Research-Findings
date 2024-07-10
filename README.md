@@ -1,5 +1,9 @@
 Currently working at [Hashlock](https://www.hashlock.com.au) as a Security Researcher
 
+### Reach out to me on:
+- Twitter/X: [ljjeth](https://x.com/ljjeth)
+- Telegram: @utkuerkin
+
 ## Audit findings can be found in this repo
 ### Profiles:
 - [Code4rena](https://code4rena.com/@ljj)
