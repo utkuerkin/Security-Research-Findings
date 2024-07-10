@@ -1,3 +1,5 @@
+## Confirmed: Medium
+
 ## Impact
 
 Introduction of bounded Kerosine Vaults will break liquidation logic, will cause the protocol to accumulate bad debt and go underwater, will de-peg the Dyad token and tank the value of Kerosene tokens.
