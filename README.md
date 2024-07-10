@@ -1,3 +1,7 @@
-## Public contest findings can be found in this repo.
+## Public contest findings can be found in this repo
+### Profiles:
+- [Code4rena](https://code4rena.com/@ljj)
+- [Codehawks](https://codehawks.cyfrin.io/profile/clk3ttrj4001mib08qqu3vgk4)
+- [Sherlock](https://audits.sherlock.xyz/watson/ljj)
 
-## 10+ private audits done with [Hashlock](https://www.hashlock.com.au)
+### 10+ private audits done with [Hashlock](https://www.hashlock.com.au) are not included in this repo
