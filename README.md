@@ -6,7 +6,7 @@ Currently working at [Hashlock](https://www.hashlock.com.au) as a freelance Secu
 
 Use these platforms to reach out for private audits.
 
-## Audit findings can be found in this repo
+## Security research findings can be found in this repo
 ### Profiles:
 - [Code4rena](https://code4rena.com/@ljj)
 - [Codehawks](https://codehawks.cyfrin.io/profile/clk3ttrj4001mib08qqu3vgk4)
