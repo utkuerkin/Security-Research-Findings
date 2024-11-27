@@ -18,5 +18,5 @@ Currently working at [Hashlock](https://www.hashlock.com.au) as a Security Resea
 
 ### 20+ private audits done with [Hashlock](https://www.hashlock.com.au) are not included in this repo
 
-## Todo:
-Add important findings from private audits that are published publicly.
+### Todo:
+1) Add important findings from private audits that are published publicly.
