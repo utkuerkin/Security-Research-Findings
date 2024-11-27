@@ -3,6 +3,7 @@ Currently working at [Hashlock](https://www.hashlock.com.au) as a freelance Secu
 ### Reach out to me on:
 - Twitter/X: [ljjeth](https://x.com/ljjeth)
 - Telegram: @utkuerkin
+
 Use these platforms to reach out for private audits.
 
 ## Audit findings can be found in this repo
