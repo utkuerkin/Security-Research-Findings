@@ -11,7 +11,8 @@ Currently working at [Hashlock](https://www.hashlock.com.au) as a Security Resea
 - [Sherlock](https://audits.sherlock.xyz/watson/ljj)
 
 ### Contest results:
-- 1x Second place
+- 2x First place
+- 2x Second place
 - 1x Third place
 - 2x Top ten
 
