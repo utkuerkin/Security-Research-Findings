@@ -16,4 +16,4 @@ Currently working at [Hashlock](https://www.hashlock.com.au) as a Security Resea
 - 1x Third place
 - 2x Top ten
 
-### 10+ private audits done with [Hashlock](https://www.hashlock.com.au) are not included in this repo
+### 20+ private audits done with [Hashlock](https://www.hashlock.com.au) are not included in this repo
