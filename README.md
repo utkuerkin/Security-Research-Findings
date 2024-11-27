@@ -1,8 +1,9 @@
-Currently working at [Hashlock](https://www.hashlock.com.au) as a Security Researcher
+Currently working at [Hashlock](https://www.hashlock.com.au) as a freelance Security Researcher
 
 ### Reach out to me on:
 - Twitter/X: [ljjeth](https://x.com/ljjeth)
 - Telegram: @utkuerkin
+Use these platforms to reach out for private audits.
 
 ## Audit findings can be found in this repo
 ### Profiles:
@@ -16,7 +17,7 @@ Currently working at [Hashlock](https://www.hashlock.com.au) as a Security Resea
 - 2x Third place
 - 2x Top ten
 
-### 20+ private audits done with [Hashlock](https://www.hashlock.com.au) are not included in this repo
+### 20+ private audits done for [Hashlock](https://www.hashlock.com.au) are not included in this repo. Only includes select findings from audit reports that have gone public.
 
 ### Todo:
-1) Add important findings from private audits that are published publicly.
+1) Add more findings from private audits as they are published publicly.
