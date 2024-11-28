@@ -17,4 +17,4 @@
 - 🥉 2x  Third place
 - 🔟 2x Top ten 
 
-20+ private audits done for [Hashlock](https://www.hashlock.com.au) are not included in this repo. Only includes select findings from audit reports that have gone public.
+Private audits (20+) for [Hashlock](https://www.hashlock.com.au) are excluded. This repo only includes selected findings from audit reports that have been made public.
