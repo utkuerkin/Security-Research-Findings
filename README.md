@@ -1,5 +1,5 @@
 ### Smart Contract Security Researcher
-#### Doing freelance private audits for [Hashlock](https://www.hashlock.com.au)
+#### Freelance Security Researcher for [Hashlock](https://www.hashlock.com.au)
 &nbsp; 
 
 #### For private audits and business inquiries reach out to me on:
