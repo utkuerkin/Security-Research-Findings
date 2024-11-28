@@ -1,1 +1,1 @@
-### This file contains some of the findings from audits done for Hashlock that have gone public with the report.
+#### This file contains some of the findings from private audits done for Hashlock that have released the report publicly.
