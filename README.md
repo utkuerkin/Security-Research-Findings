@@ -4,7 +4,7 @@
 
 #### For private audits and business inquiries reach out to me on:
 - **Twitter/X**: [ljjeth](https://x.com/ljjeth)
-- **Telegram**: @utkuerkin
+- **Telegram**: [@utkuerkin](https://t.me/utkuerkin)
 &nbsp;
 #### Profiles:
 - [Code4rena](https://code4rena.com/@ljj)
