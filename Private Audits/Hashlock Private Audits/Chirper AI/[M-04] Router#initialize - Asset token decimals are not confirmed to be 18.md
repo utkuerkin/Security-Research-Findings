@@ -1,5 +1,3 @@
-Here's the markdown version for your latest report with backticks around the function names:
-
 ## Description
 The calculations involving the agent token and asset token always assume these tokens have the same decimals. If asset tokens that have decimals less than 18 are used, it results in the undervaluing of this asset token during price calculations. Likewise, if asset tokens that have decimals more than 18 are used, it results in overvaluing this asset token during price calculations. Since the asset token is set during the initialization of the `Router.sol` contract and there are no checks done to make sure this asset token has 18 decimals, this can seriously affect price calculations.
 
