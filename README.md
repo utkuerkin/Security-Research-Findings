@@ -1,5 +1,5 @@
 ### Smart Contract Security Researcher
-#### Freelance Security Researcher for [Hashlock](https://www.hashlock.com.au)
+#### Security Researcher for [Nethermind](https://www.nethermind.io/)
 &nbsp; 
 
 #### For private audits and business inquiries reach out to me on:
@@ -17,4 +17,4 @@
 - 🥉 2x  Third place
 - 🔟 2x Top ten 
 
-Private audits (30+) for [Hashlock](https://www.hashlock.com.au) are excluded. This repo only includes selected findings from audit reports that have been made public.
+Private audits are excluded. This repo only includes selected findings from audit reports that have been made public.
