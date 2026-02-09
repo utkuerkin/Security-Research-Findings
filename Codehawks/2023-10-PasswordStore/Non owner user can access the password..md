@@ -1,10 +1,8 @@
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2023-10-PasswordStore/s/250)
+
 ### Severity
 
 High Risk
-
-### Relevant GitHub Links
-
-https://github.com/Cyfrin/2023-10-PasswordStore/blob/main/src/PasswordStore.sol
 
 ## Summary
 

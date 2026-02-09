@@ -1,3 +1,9 @@
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/111)
+
+### Severity
+
+Medium Risk
+
 ## Summary
 
 A malicious `seller` can grief a `buyerAgent` by filling out the `maxAssetsCount`. Such attack is supposed to be discouraged by the royalties that the seller has to pay, however creating a listing with a low `_price` input (e.g. 0 or 1) will cause the royalties to be 0 meaning that it will cost nothing but gas fees for the attacker.

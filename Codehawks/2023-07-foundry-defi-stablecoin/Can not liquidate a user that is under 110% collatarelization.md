@@ -1,14 +1,8 @@
-# 
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/s/559)
 
 ### Severity
 
 High Risk
-
-### Relevant GitHub Links
-
-https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/blob/main/src/DSCEngine.sol
-
-# Liquidation 110% problem
 
 ## **Summary**
 

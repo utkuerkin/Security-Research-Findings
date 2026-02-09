@@ -1,26 +1,8 @@
-### Sponsor: stake.link
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/282)
 
-### Dates: Dec 22nd, 2023 - Jan 12th, 2024
+### Severity
 
-[See more contest details here](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)
-
-
-	
-
-
-# Low Risk Findings
-
-## <a id='L-01'></a>L-01. CCIP router address cannot be updated            
-
-### Relevant GitHub Links
-	
-https://github.com/Cyfrin/2023-12-stake-link/blob/main/contracts/core/ccip/SDLPoolCCIPControllerPrimary.sol
-
-https://github.com/Cyfrin/2023-12-stake-link/blob/main/contracts/core/ccip/SDLPoolCCIPControllerSecondary.sol
-
-https://github.com/Cyfrin/2023-12-stake-link/blob/main/contracts/core/ccip/WrappedTokenBridge.sol
-
-https://github.com/Cyfrin/2023-12-stake-link/blob/main/contracts/core/ccip/base/SDLPoolCCIPController.sol
+Low Risk
 
 ## Summary
 

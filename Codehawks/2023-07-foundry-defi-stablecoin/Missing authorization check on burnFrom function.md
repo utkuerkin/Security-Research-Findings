@@ -1,12 +1,8 @@
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/s/553)
+
 ### Severity
 
 Medium Risk
-
-### Relevant GitHub Links
-
-https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/blob/main/src/DecentralizedStableCoin.sol
-
-# burnFrom Vuln.
 
 ## **Summary**
 

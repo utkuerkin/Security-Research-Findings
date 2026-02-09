@@ -1,24 +1,8 @@
-# The Standard - Findings Report
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/1166)
 
+### Severity
 
-### Sponsor: The Standard
-
-### Dates: Dec 27th, 2023 - Jan 10th, 2024
-
-[See more contest details here](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)
-
-
-
-		
-# Medium Risk Findings
-
-## <a id='M-01'></a>M-01. Attacker can frontrun `swap()` function by calling `burn()` function to steal users funds.            
-
-### Relevant GitHub Links
-	
-https://github.com/Cyfrin/2023-12-the-standard/blob/91132936cb09ef9bf82f38ab1106346e2ad60f91/contracts/SmartVaultV3.sol#L206-L235
-
-https://github.com/Cyfrin/2023-12-the-standard/blob/91132936cb09ef9bf82f38ab1106346e2ad60f91/contracts/SmartVaultV3.sol#L169-L175
+Medium Risk
 
 ## Summary
 

@@ -1,3 +1,9 @@
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2023-12-Voting-Booth/s/13)
+
+### Severity
+
+High Risk
+
 ## Summary
 
 Miscalculation of rewards causes funds to be permanently stuck in the contract.

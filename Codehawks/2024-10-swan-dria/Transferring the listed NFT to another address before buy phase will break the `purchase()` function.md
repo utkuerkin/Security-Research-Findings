@@ -1,3 +1,9 @@
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/115)
+
+### Severity
+
+Medium Risk
+
 ## Summary
 
 It is possible for a malicious `seller` to `list` an NFT and transfer it to any address that is not the seller address. This will cause the `purchase` function to always revert, breaking the contract logic, griefing all honest `seller`s and the `buyerAgent`.

@@ -1,8 +1,8 @@
-## <a id='H-01'></a>H-01. No protection implemented against listing clone NFTs
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/174)
 
-_Submitted by [foxb868](https://profiles.cyfrin.io/u/undefined), [ljj](https://profiles.cyfrin.io/u/undefined), [ChainDefenders](https://codehawks.cyfrin.io/team/cm2bxupf00003grinaqv78qfm), [n3smaro](https://profiles.cyfrin.io/u/undefined). Selected submission by: [ljj](https://profiles.cyfrin.io/u/undefined)._      
-            
+### Severity
 
+High Risk
 
 ## Summary
 

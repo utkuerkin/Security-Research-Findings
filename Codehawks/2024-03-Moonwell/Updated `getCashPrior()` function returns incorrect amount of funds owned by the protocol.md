@@ -1,24 +1,8 @@
-# Moonwell - Findings Report
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2024-03-Moonwell/s/47)
 
+### Severity
 
-# <a id='contest-summary'></a>Contest Summary
-
-### Sponsor: Moonwell
-
-### Dates: Mar 4th, 2024 - Mar 11th, 2024
-
-[See more contest details here](https://www.codehawks.com/contests/clt7ewpli0001w7f6ol2yojki)
-
-
-
-
-# Low Risk Findings
-
-## <a id='L-01'></a>L-01. Updated `getCashPrior()` function returns incorrect amount of funds owned by the protocol.            
-
-### Relevant GitHub Links
-	
-https://github.com/Cyfrin/2024-03-Moonwell/blob/e57b8551a92824d35d4490f5e7f27c373be172bd/src/MErc20DelegateFixer.sol#L129-L135
+Low Risk
 
 ## Summary
 

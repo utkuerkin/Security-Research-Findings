@@ -1,8 +1,8 @@
-## <a id='L-02'></a>L-02. It is possible to avoid paying the `protocolFee` 
+**Official Finding:** [CodeHawks Submission](https://codehawks.cyfrin.io/c/2024-10-sablier/s/44)
 
-_Submitted by [ljj](https://profiles.cyfrin.io/u/undefined), [0xstalin](https://profiles.cyfrin.io/u/undefined), [strapontin](https://profiles.cyfrin.io/u/undefined). Selected submission by: [ljj](https://profiles.cyfrin.io/u/undefined)._      
-            
+### Severity
 
+Low Risk
 
 ## Summary
 
