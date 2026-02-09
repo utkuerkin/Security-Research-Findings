@@ -1,3 +1,5 @@
+**Official Finding:** [Sherlock Submission](https://github.com/sherlock-audit/2024-11-vvv-exchange-update-judging/issues/50)
+
 ## Summary
 No access control or msg.sender validation allows an attacker to front-run honest claim calls to steal funds that are meant for the KYC'd address that the signature is signed for. This is due to the claim function sending funds to the `msg.sender`
 
