@@ -34,9 +34,9 @@ The comment "for launch anti-MEV protection" indicates the intended use case: du
 
 This is demonstrably a bug rather than intended design for three reasons:
 
-1. The factory's `getUnstakedFee()` accepts fees up to 100% using the same pattern, proving the 10% cap is not a universal safety policy
-2. `setCustomFee()`, `setFeeCap()`, and `setDefaultFeeCap()` all validate against 50%, allowing configuration that the factory then ignores
-3. If the 10% cap was intentional, the module would enforce it with a revert rather than allowing invalid configurations
+- The factory's `getUnstakedFee()` accepts fees up to 100% using the same pattern, proving the 10% cap is not a universal safety policy
+- `setCustomFee()`, `setFeeCap()`, and `setDefaultFeeCap()` all validate against 50%, allowing configuration that the factory then ignores
+- If the 10% cap was intentional, the module would enforce it with a revert rather than allowing invalid configurations
 
 For a pool with $10M trading volume during a volatile launch where governance set 30% fees:
 
