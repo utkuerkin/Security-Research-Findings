@@ -2,6 +2,8 @@
 #### Security Researcher for [Nethermind](https://www.nethermind.io/)
 &nbsp; 
 
+Private audits are excluded. This repo only includes selected findings from audit reports that have been made public.
+
 #### For private audits and business inquiries reach out to me on:
 - **Twitter/X**: [ljjeth](https://x.com/ljjeth)
 - **Telegram**: [@utkuerkin](https://t.me/utkuerkin)
@@ -17,4 +19,4 @@
 - 🥉 2x  Third place
 - 🔟 2x Top ten 
 
-Private audits are excluded. This repo only includes selected findings from audit reports that have been made public.
+
